@@ -1,0 +1,6 @@
+{
+    "Host": "cluster0.225zp.mongodb.net",
+    "Username": "dbUser",
+    "Password": "pAssw0rd123",
+    "Database": "Lime"
+}
